@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Luckiest+Guy);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	background-color: grey;
+}
+canvas {
+  display: block;
+  background-color: grey;
+}
